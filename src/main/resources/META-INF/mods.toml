@@ -37,12 +37,19 @@ showAsResourcePack=false
   modId="additional_attributes"
   mandatory=true
   versionRange="[1.1.0,)"
-  ordering="NONE"
+  ordering="AFTER"
   side="BOTH"
 
 [[dependencies.apotheosis_ascended]]
   modId="apotheosis"
   mandatory=true
   versionRange="[1.0,)"
-  ordering="NONE"
+  ordering="AFTER"
+  side="BOTH"
+
+[[dependencies.apotheosis_ascended]]
+  modId="irons_spellbooks"
+  mandatory=false
+  versionRange="[1.0,)"
+  ordering="AFTER"
   side="BOTH"
