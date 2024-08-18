@@ -1,13 +1,30 @@
 {
-    "item.apotheosis.gem.apotheosis_ascended:ISS/power_eldritch": "Eldritch Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_holy": "Holy Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_eldritch": "Eldritch Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_ender": "Ender Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_ice": "Ice Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_nature": "Nature Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_blood": "Blood Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_evocation": "Evocation Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_fire": "Fire Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_general": "Omnispell Level Gem",
-    "item.apotheosis.gem.apotheosis_ascended:ISS/spell_lightning": "Lightning Level Gem"
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/power_eldritch": "Eldritch Power Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_holy": "Holy Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_eldritch": "Eldritch Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_ender": "Ender Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_ice": "Ice Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_nature": "Nature Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_blood": "Blood Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_evocation": "Evocation Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_fire": "Fire Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_general": "Omnispell Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/spell_lightning": "Lightning Level Gem",
+
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_blood": "Innate Blood Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_eldritch": "Innate Eldritch Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_holy": "Innate Holy Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_ender": "Innate Ender Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_ice": "Innate Ice Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_nature": "Innate Nature Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_evocation": "Innate Evocation Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_fire": "Innate Fire Spell Gem",
+    "item.apotheosis.gem.apotheosis_ascended:additional_attributes_iss/innate_lightning": "Innate Lightning Spell Gem",
+
+    "bonus.apotheosis_ascended:multi_attr.desc.and_three": "%s, %s, and %s",
+    "bonus.apotheosis_ascended:multi_attr.desc.and_four": "%s, %s, %s, and %s",
+    "bonus.apotheosis_ascended:attr.desc": "%s, %s, and %s",
+
+    "affix.apotheosis:luck": "Threatening",
+    "affix.apotheosis:luck.suffix": ""
 }

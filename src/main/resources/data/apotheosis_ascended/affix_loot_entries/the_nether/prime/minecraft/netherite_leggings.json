@@ -1,0 +1,16 @@
+{
+    "dimensions": [
+        "minecraft:nether"
+    ],
+    "min_rarity": "apotheosis:epic",
+    "max_rarity": "apotheosis:epic",
+    "weight": 1,
+    "quality": 5,
+    "stack": {
+        "item": "minecraft:netherite_leggings",
+        "count": 1,
+        "nbt": {
+            "Damage": 0
+        }
+    }
+}
