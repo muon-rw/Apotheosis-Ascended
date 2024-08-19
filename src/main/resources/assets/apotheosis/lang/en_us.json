@@ -23,7 +23,7 @@
 
     "bonus.apotheosis_ascended:multi_attr.desc.and_three": "%s, %s, and %s",
     "bonus.apotheosis_ascended:multi_attr.desc.and_four": "%s, %s, %s, and %s",
-    "bonus.apotheosis_ascended:attr.desc": "%s, %s, and %s",
+    "bonus.apotheosis_ascended:attr.desc": "%s",
 
     "affix.apotheosis:luck": "Threatening",
     "affix.apotheosis:luck.suffix": ""
