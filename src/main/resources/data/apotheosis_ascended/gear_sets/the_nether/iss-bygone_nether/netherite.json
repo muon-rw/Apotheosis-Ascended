@@ -32,7 +32,7 @@
         {
 			"weight": 3,
 			"stack": {
-				"item": "bygonenether_gilded_netherite_shield"
+				"item": "bygonenether:gilded_netherite_shield"
 			}
 		}
     ],
