@@ -7,7 +7,7 @@ showAsResourcePack=false
 
 [[mods]]
   modId="apotheosis_ascended"
-  version="1.20.1-1.5.0"
+  version="1.19.2-1.0.0"
   displayName="Apotheosis Ascended"
   updateJSONURL="https://github.com/meeprdib/Apotheosis-Ascended"
   displayURL="https://github.com/meeprdib/Apotheosis-Ascended"
@@ -34,13 +34,6 @@ showAsResourcePack=false
   side="BOTH"
 
 [[dependencies.apotheosis_ascended]]
-  modId="tipsylib"
-  mandatory=true
-  versionRange="[2.0.8,)"
-  ordering="AFTER"
-  side="BOTH"
-
-[[dependencies.apotheosis_ascended]]
   modId="forge"
   mandatory=true
   versionRange="[47,)"
@@ -56,13 +49,6 @@ showAsResourcePack=false
 
 [[dependencies.apotheosis_ascended]]
   modId="irons_spellbooks"
-  mandatory=false
-  versionRange="[1.0,)"
-  ordering="AFTER"
-  side="BOTH"
-
-[[dependencies.apotheosis_ascended]]
-  modId="apothluckaffix"
   mandatory=false
   versionRange="[1.0,)"
   ordering="AFTER"
