@@ -1,4 +1,4 @@
-modLoader="lowcodefml"
+modLoader="javafml"
 loaderVersion="[47,)"
 
 license="MIT"
@@ -35,7 +35,7 @@ showAsResourcePack=false
 
 [[dependencies.apotheosis_ascended]]
   modId="tipsylib"
-  mandatory=true
+  mandatory=false
   versionRange="[2.0.8,)"
   ordering="AFTER"
   side="BOTH"
