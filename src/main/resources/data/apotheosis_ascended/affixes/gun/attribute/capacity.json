@@ -1,0 +1,40 @@
+{
+  "type": "apotheosis:attribute",
+  "attribute": "apotheosis_ascended:additional_ammo",
+  "operation": "ADDITION",
+  "values": {
+    "common": {
+      "min": 1.0,
+      "steps": 1,
+      "step": 1.0
+    },
+    "uncommon": {
+      "min": 2.0,
+      "steps": 1,
+      "step": 1.0
+    },
+    "rare": {
+      "min": 3.0,
+      "steps": 1,
+      "step": 1.0
+    },
+    "epic": {
+      "min": 4.0,
+      "steps": 1,
+      "step": 1.0
+    },
+    "mythic": {
+      "min": 5.0,
+      "steps": 1,
+      "step": 1.0
+    },
+    "ancient": {
+      "min": 6.0,
+      "steps": 1,
+      "step": 1.0
+    }
+  },
+  "types": [
+    "gun"
+  ]
+}
