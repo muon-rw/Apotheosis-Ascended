@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "dev.davey.apotheosis_ascended.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "${modid}.refmap.json",
+    "plugin": "dev.davey.apotheosis_ascended.MixinConfigPlugin",
+    "mixins": [
+        "GunModifierHelperMixin"
+    ],
+    "client": [
+    ],
+    "minVersion": "0.8"
+}
