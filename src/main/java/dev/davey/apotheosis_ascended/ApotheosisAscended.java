@@ -19,8 +19,8 @@ public class ApotheosisAscended
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         modEventBus.addListener(this::commonSetup);
-        ApotheosisAscended.LOGGER.info("Medieval MC Forge Tweaks loading");
-
+        ApotheosisAscended.LOGGER.info("Loading Apotheosis Ascended");
+        AALootCategories.init();
 
         MinecraftForge.EVENT_BUS.register(this);
     }
