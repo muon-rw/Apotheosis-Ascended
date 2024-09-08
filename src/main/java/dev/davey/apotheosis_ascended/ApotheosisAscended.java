@@ -1,5 +1,6 @@
 package dev.davey.apotheosis_ascended;
 
+import dev.davey.apotheosis_ascended.attributes.AAAttributes;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -20,7 +21,9 @@ public class ApotheosisAscended
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         modEventBus.addListener(this::commonSetup);
         ApotheosisAscended.LOGGER.info("Loading Apotheosis Ascended");
+
         AALootCategories.init();
+        AAAttributes.ATTRIBUTES.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
