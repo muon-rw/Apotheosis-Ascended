@@ -35,8 +35,8 @@ showAsResourcePack=false
 
 [[dependencies.apotheosis_ascended]]
   modId="tipsylib"
-  mandatory=false
-  versionRange="[2.0.8,)"
+  mandatory=true
+  versionRange="[2.0.9,)"
   ordering="AFTER"
   side="BOTH"
 
