@@ -23,7 +23,6 @@ public class ApotheosisAscended
         ApotheosisAscended.LOGGER.info("Loading Apotheosis Ascended");
 
         AALootCategories.init();
-        AAAttributes.ATTRIBUTES.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
