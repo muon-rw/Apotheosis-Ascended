@@ -3,8 +3,8 @@
 		"type": "forge:mod_loaded",
 		"modid": "irons_spellbooks"
 	}],
-	"weight": 5,
-	"quality": 1.5,
+	"weight": 0,
+	"quality": 0,
 	"dimensions": [
 		"overworld",
         "the_end"
