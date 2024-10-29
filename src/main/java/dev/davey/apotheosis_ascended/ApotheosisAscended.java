@@ -1,6 +1,5 @@
 package dev.davey.apotheosis_ascended;
 
-import dev.davey.apotheosis_ascended.attributes.AAAttributes;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
